@@ -47,44 +47,44 @@ Chase was looking for a **cooler panel** for a **Saginaw model OC5726**. He also
 ---
 
 ### Challenges or Pain Points
-- Main issue appears to be a **bad or incomplete model number**.
-- Chase mentioned the **customer might’ve provided incorrect info**.
-- Chase is likely **not the end user**, just facilitating the request on someone else’s behalf.
+Main issue appears to be a **bad or incomplete model number**.
+Chase mentioned the **customer might’ve provided incorrect info**.
+Chase is likely **not the end user**, just facilitating the request on someone else’s behalf.
 
 ---
 
 ### Technical Notes
-- Informed Chase that if the unit is ours, it would have an **SD sticker and a part number** on it.
-- Suggested he send a **photo of the sticker**, which would help track it down.
-- He seemed **appreciative** of the information.
+Informed Chase that if the unit is ours, it would have an **SD sticker and a part number** on it.
+Suggested he send a **photo of the sticker**, which would help track it down.
+He seemed **appreciative** of the information.
 
 ---
 
 ### Action Items
-- **No immediate action** on our end.
-- Chase will check back with his customer to get a more **accurate model number or a picture** of the equipment label.
+**No immediate action** on our end.
+Chase will check back with his customer to get a more **accurate model number or a picture** of the equipment label.
 
 ---
 
 ### Follow-up Timing
-- **Nothing scheduled** yet.
-- We might hear back from Chase once he has **better information**.
-- This felt more like a **quick recon call** than a final request.
+**Nothing scheduled** yet.
+We might hear back from Chase once he has **better information**.
+This felt more like a **quick recon call** than a final request.
 
 ---
 
 ### Takeaways
-- Chase seems like a **good contact**—professional, to the point, and respectful of our time.
-- If we help him get this sorted, he’ll likely **remember the support**.
-- **Potential relationship opportunity** with RSP if they need more parts down the line.
+Chase seems like a **good contact**—professional, to the point, and respectful of our time.
+If we help him get this sorted, he’ll likely **remember the support**.
+**Potential relationship opportunity** with RSP if they need more parts down the line.
 
 ---
 
 ### Relationship Notes
-- Nothing personal came up.
-- Chase sounded like someone **used to working with tech support**.
-- He knew what info to provide and **didn’t waste time**.
-- **Easy to talk to**, and his tone/approach would be **recognizable in future calls**.
+Nothing personal came up.
+Chase sounded like someone **used to working with tech support**.
+He knew what info to provide and **didn’t waste time**.
+**Easy to talk to**, and his tone/approach would be **recognizable in future calls**.
 
 ---
 
@@ -315,8 +315,8 @@ Timeline-wise, she’s ready to place an order **immediately** if the part is av
 
 ### **Action Items**
 
-- I told her I’d confirm availability with our other warehouses and follow up by email.  
-- She asked for my email address and said she’d send over her contact info — which she did within the call.
+I told her I’d confirm availability with our other warehouses and follow up by email.  
+She asked for my email address and said she’d send over her contact info — which she did within the call.
 
 ---
 
@@ -329,15 +329,15 @@ This is clearly a **“whoever gets it first gets the order”** situation.
 
 ### **Takeaways**
 
-- Rebecca didn’t say much about what the part was for, but she had the part number ready and was efficient — probably handles purchasing regularly.
-- Good potential for **future spot buys** if we come through on this one.
+Rebecca didn’t say much about what the part was for, but she had the part number ready and was efficient — probably handles purchasing regularly.
+Good potential for **future spot buys** if we come through on this one.
 
 ---
 
 ### **Relationship Notes**
 
-- Nothing personal came up, but she was **pleasant and responsive**.
-- No hesitation in sending over her contact info — definitely open to doing business.
+Nothing personal came up, but she was **pleasant and responsive**.
+No hesitation in sending over her contact info — definitely open to doing business.
 
 ---
 
